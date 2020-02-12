@@ -1,2 +1,0 @@
-# PruebaVue
-Created with CodeSandbox
